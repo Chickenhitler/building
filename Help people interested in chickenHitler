@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Loading...</title>
+  <script>
+    // Redirect instantly to the YouTube video
+    window.location.href = "https://www.youtube.com/watch?v=mXTYvRf3qew";
+  </script>
+</head>
+<body>
+  <p>If you are not redirected automatically, <a href="https://www.youtube.com/watch?v=mXTYvRf3qew">click here</a>.</p>
+</body>
+</html>
